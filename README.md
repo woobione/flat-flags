@@ -23,6 +23,8 @@ There are two sizes 16px and 47px. Use `flag-sm` or `flag-md` in your css class
 
 Original image flags from https://dribbble.com/shots/1211759-Free-195-Flat-Flags
 
+* Puerto Rico flag created by Stefan Tynell & implemented by Anton Netterwall
+
 ## License
 
 Copyright (c) 2015 Luis Hdez
